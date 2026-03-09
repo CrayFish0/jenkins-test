@@ -2,6 +2,6 @@ package com.git;
 
 public class Demo {
     public static void main(String[] args) {
-        throw new IllegalStateException();
+        System.out.println("Hello");
     }
 }
